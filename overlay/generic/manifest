@@ -164,6 +164,7 @@ d usr/lib/brand/lx 0755 root bin
 f usr/lib/brand/lx/config.xml 0444 root root
 f usr/lib/brand/lx/lx_install 0755 root root
 f usr/lib/brand/lx/lx_uninstall 0755 root root
+f usr/lib/brand/lx/platform.xml 0444 root root
 f usr/lib/brand/lx/poststate 0755 root root
 f usr/lib/brand/lx/prestate 0755 root root
 f usr/lib/brand/lx/statechange 0755 root root
