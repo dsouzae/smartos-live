@@ -154,3 +154,8 @@ set sd:sd_io_time=10
 
 * Use hires tick to improve some scheduling latency issues
 set hires_tick=1
+
+
+set pidmax=999999
+set max_nprocs=500000
+set maxuprc=400000
